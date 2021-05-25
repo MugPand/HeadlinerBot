@@ -1,0 +1,4 @@
+# Files for git to ignore
+.env
+__pycache__/*
+headlinerbot_env/*

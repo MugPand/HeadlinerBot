@@ -1,0 +1,8 @@
+HeadlinerBot:
+- set up virtual environment
+- set up token/guild env files
+- simple hello world
+- website ping to websites (google)
+- website ping to twitter & webscraping
+- displaying webscraped content (adam schefter / adrian wojnowski? / espn)
+- hosting?(maybe?)
